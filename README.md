@@ -11,3 +11,4 @@
 8. websocket
 9. mq
 10.Thymeleaf
+11.jersey
